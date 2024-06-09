@@ -30,9 +30,9 @@ function App() {
       heroCount={heroCount}
       setHeroCount={setHeroCount}
       playStatus={playStatus} 
-      />
+      />   
     </div>
-  );
+  );  
 }
 
-export default App;
+export default App;    
